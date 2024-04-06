@@ -1,0 +1,18 @@
+.options {
+    text-align: center;
+    padding: 2rem;
+}
+
+.options h3 {
+    border-bottom: 4px solid ;
+    padding: .5rem;
+    display: inline-block;
+}
+
+.cardss{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 1rem 0;
+}
